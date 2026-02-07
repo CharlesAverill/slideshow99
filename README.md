@@ -1,6 +1,6 @@
-# Slideshow99
+# Presenter99
 
-Slideshow99 is a slideshow engine written in BASIC for the [TI-99/4A](https://en.wikipedia.org/wiki/TI-99/4A).
+Presenter99 is a slideshow engine written in BASIC for the [TI-99/4A](https://en.wikipedia.org/wiki/TI-99/4A).
 
 ![example slideshow](media/slideshow99.gif)
 
